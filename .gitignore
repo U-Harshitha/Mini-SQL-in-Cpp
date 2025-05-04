@@ -1,5 +1,19 @@
 # Prerequisites
 *.d
+build/
+cmake-build-*/
+*.o
+*.obj
+*.exe
+*.out
+*.so
+*.dll
+*.dylib
+*.cmake
+CMakeCache.txt
+.idea/
+*.vcxproj
+*.sln
 
 # Compiled Object files
 *.slo
